@@ -13,6 +13,7 @@ public class Arr6{
 					int temp=nums[i];
 					nums[i]=nums[j];
 					nums[j]=temp;
+//これは左から最小値を確定して右にずらしていくコード
 				}
 			}
 		}
