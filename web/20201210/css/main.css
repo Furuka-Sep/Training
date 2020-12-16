@@ -1,0 +1,27 @@
+body{
+	width:960px;
+	height:500px;
+	margin:0 auto;
+	background:#eee;
+	display:flex;
+	align-items:center;
+}
+.main{
+	width:600px;
+	height:300px;
+	margin:0 auto;
+	background:yellow;
+	font-size:60px;
+	text-align:center;
+	line-height: 300px;
+	color:black;
+}
+.point{
+	width:100px;
+	height:100px;
+	background:red;
+	color:white;
+	text-align:center;
+	border-radius:50%;
+	line-height:100px;
+}
