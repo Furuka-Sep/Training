@@ -10,6 +10,7 @@
 <title>逃げもんす</title>
 </head>
 <body>
+<!-- monsterクラスの配列に格納して拡張for文で出力したほうが綺麗 -->
 <p><%= m1.run() %></p>
 <p><%= m2.run() %></p>
 <p><%= m3.run() %></p>
